@@ -13,9 +13,11 @@ Currently studying in **BSU** at the **Applied Mathematics and Informatics** fac
 so I'm planning to attend some in the future. At the moment I'm working as a site administrator and I believe
 that it gives me "general" work expirienceand and helps to take my soft skills to another level. 
 In the nearest future I'm planning to start working as a Junior JS Developer 
-and I'm sure that i have enough determination to achieve this goal!
+and I'm sure that I have enough determination to achieve this goal!
 
-<img src="https://i.pinimg.com/736x/99/6e/48/996e489ca3512f054961b24df6afa4f0--determination-you-are.jpg" width="300" height="300">
+<div align="center">
+  <img src="https://i.pinimg.com/736x/99/6e/48/996e489ca3512f054961b24df6afa4f0--determination-you-are.jpg" width="300" height="300">
+</div>
 
 ## Skills
 - C++
