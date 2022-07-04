@@ -14,7 +14,7 @@ so I'm planning to attend some in the future. At the moment I'm working as a sit
 that it gives me "general" work expirienceand and helps to take my soft skills to another level. 
 In the nearest future I'm planning to start working as a Junior JS Developer 
 and I'm sure that i have enough determination to achieve this goal!
-![image](https://user-images.githubusercontent.com/78675849/177122917-ed92ac81-d6f5-4e0c-84a1-7dea7a9b380c.jpg =400x400)
+<img src="https://i.pinimg.com/736x/99/6e/48/996e489ca3512f054961b24df6afa4f0--determination-you-are.jpg" width="300" height="300">
 
 ## Skills
 - C++
